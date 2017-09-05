@@ -42,18 +42,18 @@ into your target project folder, and refreash project view in Eclipse.
  * 2D array of the map
  * 
  * Example:
- * 4 4
- * 1 1
- * 3 3
- * 1 1 X 2
- * 2 1 X 2
- * 1 1 1 1
- * 2 2 2 1
- * 
+4 4
+1 1
+3 3
+1 1 X 2
+2 1 X 2
+1 1 1 1
+2 2 2 1
+
  * Result of ucs:
- * 	* * X 2
- * 	2 * X 2
- * 	1 * * *
- * 	2 2 2 *
+* * X 2
+2 * X 2
+1 * * *
+2 2 2 *
 
 ## Instruction END ##
