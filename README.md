@@ -51,9 +51,9 @@ into your target project folder, and refreash project view in Eclipse.
  * 2 2 2 1
  * 
  * Result of ucs:
- * * * 2 2
- * 2 * 2 2
- * 1 * * *
- * 2 2 2 *
+ * 	* * X 2
+ * 	2 * X 2
+ * 	1 * * *
+ * 	2 2 2 *
 
 ## Instruction END ##
