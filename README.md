@@ -60,7 +60,7 @@ into your target project folder, and refreash project view in Eclipse.
 
  * Result of ucs:
 
-* * X 2
+** X 2
 
 2 * X 2
 
