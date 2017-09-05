@@ -1,0 +1,14 @@
+% Setup input map file (default = "map.txt").
+SPP_Map_File = "map.txt";
+
+% Setup approach chosen (default = "1").
+% 0 = "bfs" --> Breadth-first search
+% 1 = "ucs" --> Uniform cost search (Dijkstra's algorithm)
+% 2 = "astar" --> A* search
+Approach = "1";
+
+% Setup A* search parameters (default = "0").
+% 0 = ""
+% 1 = "manhattan"
+% 2 = "euclidean"
+AStarParameter = "0";
