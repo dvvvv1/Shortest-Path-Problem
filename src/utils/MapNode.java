@@ -2,8 +2,7 @@ package utils;
 import java.util.Vector;
 
 /**
- * @author puzhiyao
- * Email: puzhi.yao@gmail.com
+ * @author pz.yao
  * Coding Date: 22 Mar 2015
  */
 public class MapNode {
