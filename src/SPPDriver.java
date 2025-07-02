@@ -17,8 +17,7 @@ import utils.MapNode.Status;
  * Arguments: map.txt method modeForAStarMethod 
  * method = {bfs, ucs, astar}
  * modeForAStarMethod = {Manhattan, Euclidean}
- * @author puzhiyao
- * Email: puzhi.yao@gmail.com
+ * @author pz.yao
  * Coding Date: 22 Mar 2015
  * 
  * Given map.txt:
