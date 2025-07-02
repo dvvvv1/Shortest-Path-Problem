@@ -6,8 +6,7 @@ import utils.MapNode.Status;
 
 /**
  * A* search
- * @author puzhiyao
- * Email: Puzhi.Yao@gmail.com
+ * @author pz.yao
  * Coding Date: 22 Mar 2015
  */
 public class ASTAR {
