@@ -5,8 +5,7 @@ import utils.MapNode.Status;
 
 /**
  * Breadth-first search
- * @author puzhiyao
- * Email: Puzhi.Yao@gmail.com
+ * @author pz.yao
  * Coding Date: 22 Mar 2015
  */
 public class BFS {
