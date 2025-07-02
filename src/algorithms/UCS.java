@@ -5,8 +5,8 @@ import utils.MapNode;
 
 /**
  * Uniform Cost Search/Dijkstra's algorithm
- * 
- * @author puzhiyao Email: Puzhi.Yao@gmail.com Coding Date: 22 Mar 2015
+ * @author pz.yao
+ * Coding Date: 22 Mar 2015
  */
 public class UCS {
 	/*
